@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: 100vh;
+    box-sizing: border-box;
+    background: linear-gradient(to bottom, rgba(51, 87, 104, 0.507), #2b4c5894), url("../img/car.jpg") !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
+}
+
+table{
+    margin: 0 auto;
+}   
+
+.nav li a {
+    color: black;
+}
+
+footer{
+    background-color: rgba(212, 212, 212);
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+}
